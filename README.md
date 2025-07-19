@@ -53,4 +53,36 @@
 
 ---
 
+# 📂 My Public Repositories
+
+## 🌐 Web Development Projects
+[![CRUD-PHP](https://github-readme-stats.vercel.app/api/pin/?username=Iamsanji&repo=CRUD-PHP&theme=radical)](https://github.com/Iamsanji/CRUD-PHP)  
+Basic CRUD operations with PHP/MySQL  
+
+[![HTML-CSS-JS](https://github-readme-stats.vercel.app/api/pin/?username=Iamsanji&repo=HTML-CSS-JS&theme=radical)](https://github.com/Iamsanji/HTML-CSS-JS)  
+Web development practice projects  
+
+[![Login-System](https://github-readme-stats.vercel.app/api/pin/?username=Iamsanji&repo=Login-System&theme=radical)](https://github.com/Iamsanji/Login-System)  
+PHP/MySQL authentication system  
+
+## 🎓 Academic Systems
+[![wmsu-thesis-archive](https://github-readme-stats.vercel.app/api/pin/?username=Iamsanji&repo=wmsu-thesis-archive&theme=dark)](https://github.com/Iamsanji/wmsu-thesis-archive)  
+Thesis document management system for WMSU  
+
+## 📚 Learning Projects
+[![Java-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Iamsanji&repo=Java-Projects&theme=merko)](https://github.com/Iamsanji/Java-Projects)  
+Core Java programming examples  
+
+[![Python-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Iamsanji&repo=Python-Projects&theme=merko)](https://github.com/Iamsanji/Python-Projects)  
+Python scripts and mini-projects  
+
+## 🖥️ Personal Projects
+[![Portfolio-Website](https://github-readme-stats.vercel.app/api/pin/?username=Iamsanji&repo=Portfolio-Website&theme=gruvbox)](https://github.com/Iamsanji/Portfolio-Website)  
+My personal portfolio website  
+
+---
+
+### 🔍 View All Repositories
+[![Browse All](https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iamsanji?tab=repositories)
+
 ⭐ **Fun Fact:** I automate repetitive tasks just for fun
