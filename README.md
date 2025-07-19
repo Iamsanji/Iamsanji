@@ -25,9 +25,9 @@
 ---
 
 ### 🚀 **Featured Projects**
-- **[Project Name](https://github.com/Iamsanji/repo)** - Short description (e.g., "E-commerce site with React + Laravel").  
-- **[Project Name](https://github.com/Iamsanji/repo)** - Short description.  
-- **[Project Name](https://github.com/Iamsanji/repo)** - Short description.  
+- **[DentalCare Appointment Management System](https://github.com/Iamsanji/repo)** - A Web Application for our client Dr.Smile. A real time appointment management system where you can book an appointment, can alert notification, sending email for confirmation, scheduling and rescheduling, and can see status of your previous appointments
+  
+- **[WMSU Finance Management System](https://github.com/Iamsanji/repo)** - My Internship Software Development Task.
 
 ---
 
@@ -45,4 +45,4 @@
 
 ---
 
-⭐ **Fun Fact:** "I automate repetitive tasks just for fun!" (or your own fact)
+⭐ **Fun Fact:** I automate repetitive tasks just for fun
