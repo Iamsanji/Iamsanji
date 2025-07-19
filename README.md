@@ -24,6 +24,13 @@
 
 ---
 
+### 🤝 **Collaborations**
+- **Backend/Frontend Developer** @ WMSU Finance System (Private Repo)  
+  - Built payment integration modules using **Laravel + React**.  
+  - Optimized database queries for financial reports.  
+  - Collaborated via GitHub PRs (10+ merged).
+    
+
 ### 🚀 **Featured Projects**
 - **[DentalCare Appointment Management System](https://github.com/Iamsanji/repo)** - A Web Application for our client Dr.Smile. A real time appointment management system where you can book an appointment, can alert notification, sending email for confirmation, scheduling and rescheduling, and can see status of your previous appointments
   
@@ -39,9 +46,10 @@
 ---
 
 ### 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=react&logoColor=white)](https://joshmendoza.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-mendoza-a84800356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/josh.mendoza.930489)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshmendoza121319@gmail.com)
 
 ---
 
